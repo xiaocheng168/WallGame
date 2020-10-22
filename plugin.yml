@@ -1,0 +1,10 @@
+name: WallGame
+main: cn.minecraft.Zcc.WallGame.Main
+version: 1.0.0
+softdepend:
+  - PlaceholderAPI
+commands:
+  wallgame:
+    description: "战墙"
+    aliases:
+      - wg
